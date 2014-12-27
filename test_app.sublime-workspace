@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"burstyLimiter	chan time.Time ν"
+			],
+			[
+				"Ti",
+				"Time	struct ʈ"
+			],
+			[
+				"fu",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"f",
+				"func	func {...} ʂ"
+			],
+			[
+				"fun",
+				"func	func {...} ʂ"
+			],
+			[
+				"Mi",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"new",
+				"NewTicker	*time.Ticker ƒ"
+			],
+			[
+				"st",
+				"stop2	bool ν"
+			],
+			[
+				"timer",
+				"timer2	*time.Timer ν"
+			],
+			[
+				"fuc",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Scan",
+				"Scanln	n int, err error ƒ"
+			],
+			[
+				"arg",
+				"argError	struct ʈ"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"g",
+				"geometry	interface ¡"
+			],
+			[
+				"p",
+				"Pi	 Ɩ"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"no",
+				"Now	time.Time ƒ"
+			],
+			[
+				"Pi",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"P",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"F",
+				"fmt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/rate_limiting.go",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"haxe u",
+				"Haxelib: Update library"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/korasdor/hello/hello.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/korasdor/stringutil/reverse.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/user/hello/hello.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/user/test/test.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/run.bat",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/rate_limiting.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/timers.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/tickers.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/worker_pools.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/range_over_channels.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/non_blocking_channel_operations.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/closing_channels.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/select.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/timeouts.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/arrays.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/forloop.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/constants.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/channels.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/channel_synchronization.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/channel_directions.go",
+		"/C/Users/koras dor/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-build",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/functions.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/errors.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/build.bat",
+		"/E/dev/my/go/projects/sublimetext/test_app/run.sh",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/testproj/test/test.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/user/stringutil/hello.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/user/hello.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/muesli/cache2go/examples/callbacks/callbacks.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/muesli/cache2go/cache.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/muesli/cache2go/cachetable.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/interfaces.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/structs.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/test/test.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/github.com/muesli/cache2go/examples/mycachedapp/mycachedapp.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/mycachedapp.go",
+		"/C/Users/koras dor/AppData/Roaming/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/E/dev/my/go/projects/sublimetext/test_app/test_app.sublime-project",
+		"/C/Users/koras dor/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Users/koras dor/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/slices.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/variables.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/test_app.sublime-workspace",
+		"/E/sdks/gtk+-bundle_3.6.4-20131201_win64/gtk+-bundle_3.6.4-20131201_win64.README.txt",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/pointers.go",
+		"/E/sdks/gtk+-bundle_3.6.4-20131201_win64/share/gtk-3.0/gtkbuilder.rng",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/channel_buffering.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/goroutines.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/maps.go",
+		"/E/dev/my/go/projects/sublimetext/go/robots.txt",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/methods.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/closures.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/variadic_functions.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/recursions.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/multple_return_value.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/range.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/slicles.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/switch.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/if_else.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/src/if-else.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/forloop.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/for.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/constants.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/variables.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/varibles.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/hello_world.go",
+		"/E/dev/my/go/projects/sublimetext/test_app/hello_world",
+		"/C/Users/koras dor/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/E/dev/my/nodejs/projects/webstorm/tests/src/ws_server.js",
+		"/E/dev/my/nodejs/projects/webstorm/tests/src/ws_client.js",
+		"/E/dev/my/nodejs/projects/webstorm/tests/package.json",
+		"/E/dev/my/nodejs/projects/webstorm/tests/src/chat.js",
+		"/C/Users/koras dor/.ssh/config",
+		"/E/dev/my/nodejs/projects/webstorm/tests/src/server.js",
+		"/E/dev/work/a42/gui_aztec/src/controllers/gamecontroller.js",
+		"/C/Users/koras dor/.ssh/id_rsa_rhc.pub",
+		"/E/personal/memo/memo.txt",
+		"/E/dev/my/nodejs/projects/webstorm/koras/package.json",
+		"/E/dev/my/nodejs/projects/webstorm/koras/.gitignore",
+		"/E/dev/my/nodejs/projects/misc/koras/server.js",
+		"/E/dev/my/nodejs/projects/misc/koras/temp/server.js",
+		"/E/dev/my/nodejs/projects/misc/koras/package.json",
+		"/E/dev/my/nodejs/projects/misc/koras/index.html",
+		"/E/dev/my/nodejs/projects/misc/koras/deplist.txt",
+		"/E/dev/my/nodejs/projects/misc/koras/.openshift/README.md",
+		"/E/dev/my/haxe/projects/sublimetext/testapp/output/Build.xml",
+		"/E/dev/my/haxe/projects/sublimetext/testapp/Test.hx",
+		"/E/dev/my/haxe/projects/sublimetext/testapp/build.hxml",
+		"/E/dev/my/haxe/projects/idea/TestApp/project.xml",
+		"/E/personal/keys/mobitel/public_git"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"requests",
+			"main",
+			"requests",
+			"package",
+			"requests",
+			"\n	",
+			"a",
+			"switch",
+			"package main\n\nimport \"fmt\"\nimport \"time\"\n\nfunc main() {\n	i := 2\n	fmt.Print(\"write \", i, \" as \")\n\n	switch i {\n	case 1:\n		fmt.Println(\"one\")\n	case 2:\n		fmt.Println(\"two\")\n	case 3:\n		fmt.Println(\"three\")\n	}\n\n	switch time.Now().Weekday() {\n	case time.Saturday, time.Sunday:\n		fmt.Println(\"it's the weekend\")\n	default:\n		fmt.Println(\"it's a weekday\")\n	}\n\n	t := time.Now()\n	switch {\n	case t.Hour() < 12:\n		fmt.Println(\"it's before noon\")\n	default:\n		fmt.Println(\"it's after noon\")\n	}\n}\n",
+			"go",
+			"tests"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"requests"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/rate_limiting.go",
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								815,
+								815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 394.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\koras dor\\AppData\\Roaming\\Sublime Text 2\\Packages\\GoSublime":
+	{
+		"height": 124.0
+	},
+	"output.9o://C:\\Users\\koras dor\\AppData\\Roaming\\Sublime Text 2\\Packages\\User":
+	{
+		"height": 118.0
+	},
+	"output.9o://E:\\dev\\my\\go\\projects\\sublimetext\\test_app":
+	{
+		"height": 124.0
+	},
+	"output.9o://E:\\dev\\my\\go\\projects\\sublimetext\\test_app\\src":
+	{
+		"height": 124.0
+	},
+	"output.9o://e:\\dev\\my\\go\\projects\\sublimetext\\test_app":
+	{
+		"height": 124.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/dev/my/go/projects/sublimetext/test_app/test_app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

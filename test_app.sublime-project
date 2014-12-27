@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/E/dev/my/go/projects/sublimetext/test_app"
+		}
+	],
+    "settings": {
+        "GoSublime": {
+            "env": {
+                "GOPATH": "E:/dev/my/go/projects/sublimetext/test_app"
+            }
+        }
+    }
+}
