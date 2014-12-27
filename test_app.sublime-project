@@ -2,13 +2,13 @@
 	"folders":
 	[
 		{
-			"path": "/E/dev/my/go/projects/sublimetext/test_app"
+			"path": "/E/dev/my/go/projects/sublimetext/go_samples"
 		}
 	],
     "settings": {
         "GoSublime": {
             "env": {
-                "GOPATH": "E:/dev/my/go/projects/sublimetext/test_app"
+                "GOPATH": "E:/dev/my/go/projects/sublimetext/go_samples"
             }
         }
     }
